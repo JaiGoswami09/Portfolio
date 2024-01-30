@@ -65,11 +65,12 @@ button {
 textarea {
   resize: none;
 }
+/*
+*/
 
 .heading-primary {
   font-size: 6rem;
   color: #111;
-  text-transform: uppercase;
   letter-spacing: 3px;
   text-align: center;
 }
